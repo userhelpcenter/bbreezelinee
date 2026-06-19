@@ -11,7 +11,7 @@ Introduction
 
 Breezeline is a well-known internet, TV, and phone service provider that allows users to manage their services online. Accessing your Breezeline account helps you pay bills, check usage, and manage subscriptions.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
