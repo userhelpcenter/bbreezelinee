@@ -9,7 +9,13 @@ How to Login Breezeline Account Easily
 Introduction
 ============
 
-Breezeline is a well-known internet, TV, and phone service provider that allows users to manage their services online. Accessing your Breezeline account helps you pay bills, check usage, and manage subscriptions بسهولة.
+Breezeline is a well-known internet, TV, and phone service provider that allows users to manage their services online. Accessing your Breezeline account helps you pay bills, check usage, and manage subscriptions.
+
+.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.net/
 
 This guide will walk you through the Breezeline login process step by step in a simple and easy-to-understand way.
 
